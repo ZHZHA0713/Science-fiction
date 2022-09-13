@@ -3,3 +3,4 @@
 Git not equal to GitHub
 Dev. Area
 Staging Area
+Local Repos.
