@@ -1,1 +1,1 @@
-﻿Caudron-Herger, M., R. E. Jansen, E. Wassmer and S. Diederichs (2021). "RBP2GO: a comprehensive pan-species database on RNA-binding proteins, their interactions and functions." Nucleic Acids Res 49(D1): D425-D436.
+﻿Caudron-Herger, M., E. Jansen, E. Wassmer and S. Diederichs (2021). "RBP2GO: a comprehensive pan-species database on RNA-binding proteins, their interactions and functions." Nucleic Acids Res 49(D1): D425-D436.
