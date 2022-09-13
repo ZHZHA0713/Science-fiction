@@ -1,1 +1,4 @@
 ﻿Caudron-Herger, M., E. , E. Wassmer and S. Diederichs (2021). "RBP2GO: a comprehensive pan-species database on RNA-binding proteins, their interactions and functions." Nucleic Acids Res 49(D1): D425-D436.
+
+Git not equal to GitHub
+
