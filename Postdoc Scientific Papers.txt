@@ -5,4 +5,6 @@ Dev. Area
 Staging Area
 Local Repos.
 
+How can I see the history of my timeline?
+
 git log --oneline
